@@ -1,0 +1,3 @@
+[submodule "Assets/LabHavenInteractive/Addressables"]
+	path = Assets/LabHavenInteractive/Addressables
+	url = git@github.com:labhaveninteractive/Addressables.git
